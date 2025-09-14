@@ -1,0 +1,6 @@
+# Instagram URL 목록 파일
+# 테스트용 URL들
+https://www.instagram.com/p/DOgZA3hEjQ5/
+https://www.instagram.com/p/DOiSOJwEvAT/
+https://www.instagram.com/p/DN3NOXpZENJ/
+https://www.instagram.com/p/DOSS3O8kh5I/
