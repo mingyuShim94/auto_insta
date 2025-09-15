@@ -59,6 +59,12 @@ def parse_arguments() -> argparse.Namespace:
     )
 
     parser.add_argument(
+        "--batch",
+        metavar="FILEPATH",
+        help="배치 모드 간편 실행 (metadata, json, combined-output 자동 적용)",
+    )
+
+    parser.add_argument(
         "--combined-output",
         "-c",
         action="store_true",
@@ -387,6 +393,18 @@ def interactive_mode():
 def main():
     """메인 함수"""
     args = parse_arguments()
+
+    # 간편 배치 모드 (--batch)
+    if args.batch:
+        # 기본값 자동 설정
+        args.batch_file = args.batch
+        args.metadata = True
+        args.save = 'json'
+        args.combined_output = True
+
+        print("🚀 간편 배치 모드 실행")
+        print("✅ 자동 설정: metadata=True, save=json, combined_output=True")
+        print("")
 
     # 배치 파일 처리 모드
     if args.batch_file:

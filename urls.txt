@@ -1,6 +1,11 @@
 # Instagram URL 목록 파일
 # 테스트용 URL들
-https://www.instagram.com/p/DOgZA3hEjQ5/
-https://www.instagram.com/p/DOiSOJwEvAT/
-https://www.instagram.com/p/DN3NOXpZENJ/
-https://www.instagram.com/p/DOSS3O8kh5I/
+# https://www.instagram.com/p/DOgZA3hEjQ5/
+# https://www.instagram.com/p/DOiSOJwEvAT/
+# https://www.instagram.com/p/DN3NOXpZENJ/
+# https://www.instagram.com/p/DOSS3O8kh5I/
+https://www.instagram.com/reel/DOZ0mZtkr-6/?igsh=MXJzY3FsOHIzaXkxcw==
+https://www.instagram.com/reel/DNLHbj3v7At/?igsh=MWZnOW1maWN5MTB3Ng==
+https://www.instagram.com/reel/DLewArnzenc/?igsh=Y2oxcHcyZGdhNndw
+https://www.instagram.com/reel/DI5Nf_bzbyA/?igsh=eHJvbW9scWJyamE3
+https://www.instagram.com/reel/DMfP4y5TJlC/?igsh=eGgycGEyeWhlc3M3
