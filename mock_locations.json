@@ -1,0 +1,59 @@
+{
+  "locations": [
+    {
+      "name": "츠키지 스시 다이 혼점",
+      "name_en": "Sushi Dai Honten",
+      "address": "東京都中央区築地5-2-1 築地市場6号館",
+      "description": "새벽부터 줄서는 유명한 츠키지 스시집. 신선한 참치와 성게가 일품이며, 오마카세 코스 추천.",
+      "category": "스시 맛집",
+      "website": "https://www.instagram.com/reel/example1",
+      "likes": 15420,
+      "rating": 4.8,
+      "price_range": "¥3000-5000"
+    },
+    {
+      "name": "센소지 절",
+      "name_en": "Sensoji Temple",
+      "address": "東京都台東区浅草2-3-1",
+      "description": "도쿄에서 가장 오래된 절로 1400년 역사. 아사쿠사의 대표 관광지이며 전통 기념품 구매 가능.",
+      "category": "관광지",
+      "website": "https://www.instagram.com/reel/example2",
+      "likes": 8932,
+      "rating": 4.6,
+      "price_range": "무료"
+    },
+    {
+      "name": "이치란 라멘 신주쿠점",
+      "name_en": "Ichiran Ramen Shinjuku",
+      "address": "東京都新宿区歌舞伎町1-22-7",
+      "description": "24시간 운영하는 톤코츠 라멘 전문점. 개인 부스 시스템으로 혼자서도 편하게 식사 가능.",
+      "category": "라멘 맛집",
+      "website": "https://www.instagram.com/reel/example3",
+      "likes": 12567,
+      "rating": 4.4,
+      "price_range": "¥1000-1500"
+    },
+    {
+      "name": "시부야 스카이",
+      "name_en": "Shibuya Sky",
+      "address": "東京都渋谷区渋谷2-24-12",
+      "description": "시부야 스크램블 교차로를 내려다볼 수 있는 전망대. 특히 야경이 아름다우며 인스타 핫플레이스.",
+      "category": "전망대",
+      "website": "https://www.instagram.com/reel/example4",
+      "likes": 23451,
+      "rating": 4.7,
+      "price_range": "¥1800"
+    },
+    {
+      "name": "긴자 교자루 본점",
+      "name_en": "Ginza Kyoboshi Honten",
+      "address": "東京都中央区銀座5-4-6",
+      "description": "긴자의 고급 교자 전문점. 얇은 피와 육즙 가득한 속으로 유명하며 미슐랭 추천 맛집.",
+      "category": "교자 맛집",
+      "website": "https://www.instagram.com/reel/example5",
+      "likes": 9876,
+      "rating": 4.5,
+      "price_range": "¥2000-3000"
+    }
+  ]
+}
